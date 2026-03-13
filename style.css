@@ -15,7 +15,7 @@ body{
 }
 
 .main_todo_div {
-    width: 25rem;
+    width: 15rem;
     display: grid;
     grid-template-columns: 1fr 0.3fr;
     align-items: center;
